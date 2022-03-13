@@ -6,6 +6,7 @@ We will see a lot of useful operations that we can perform while loading data in
 
 
 
-
-References:
+<P>
+References:<br>
 https://github.com/realpython/python-data-cleaning
+</P>
