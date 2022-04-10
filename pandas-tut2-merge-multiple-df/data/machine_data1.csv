@@ -1,0 +1,4 @@
+machine,cpu%,mem%,disk%
+mac1,12,24,30
+mac2,24,30,60
+mac3,22,10,20
