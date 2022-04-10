@@ -11,7 +11,7 @@ We will see a lot of useful operations that we can perform while loading data in
 References:<br>
 https://github.com/realpython/python-data-cleaning
 </P>
-
+<br><br>
 <P>
 <H2>Tutorial#2: Pandas Merge Multiple Data Frames</H2>
 <br>
