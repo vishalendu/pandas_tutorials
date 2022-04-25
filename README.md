@@ -21,7 +21,7 @@ For e.g. This is useful when you are comparing multiple files and dont know how 
 
 <br><br>
 <P>
-<H2> Tutorial#3: Pandas read, and update an Excel Sheet
+  <H2>Tutorial#3: Pandas read, and update an Excel Sheet</H2>
 <br>
 In this tutorial, we will see how easy it is to read and update and Excel sheet with data and images.
 </P>
