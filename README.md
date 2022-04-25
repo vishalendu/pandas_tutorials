@@ -18,3 +18,10 @@ https://github.com/realpython/python-data-cleaning
 We will see how easy it is to merge a number of Dataframe objects without knowing their count.
 For e.g. This is useful when you are comparing multiple files and dont know how many exist.
 </P>
+
+<br><br>
+<P>
+<H2> Tutorial#3: Pandas read, and update an Excel Sheet
+<br>
+In this tutorial, we will see how easy it is to read and update and Excel sheet with data and images.
+</P>
